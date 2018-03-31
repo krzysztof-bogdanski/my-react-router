@@ -1,2 +1,2 @@
 # my-react-router
-Tutorial
+Nauka Reacta, od podstaw.
